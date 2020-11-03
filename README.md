@@ -1,9 +1,7 @@
 # iOS-Portfolio
-2018-2019 Portfolio
+2020-2021 Portfolio
 
-Using this space as the home base for your portfolio, make a wiki or pages like this read me to highlight what you have learned / created over this semester of class. You should consider this as much for your grade as your resume. You've got incredible work to highlight and brag about - do that here. 
+This is one of the first app
 
-I'd like you to consider this assignment as a way to get a job / internship / independent contract with someone outside the school.
-
-Create links to group projects (create a new repo for completed apps) you've been working on, making sure the read me's have details about what the apps do in the format the app store asks - look at a couple apps to see what I'm talking about. Don't forget about those first simple apps you created - they still matter!
-
+This is a my first group project in are Ios class. Super Bird Fighter Ultra is a going to be a fighting game that you can use different birds to fight each other with like in mortal combat. Each bird will have different things they can do and different attributes like health and speed. So far as of Nov. 3 we have created a basic start menu, some basic movement physics with particle walk dust, and some animations for player movement. We hope that this game will be a fun and unique fighting game. 
+https://github.com/AnthonyKuismi/Super-Bird-Fighter-Ultra
