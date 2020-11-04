@@ -5,10 +5,10 @@ More information is available for the projects are in the readmes of the reposit
 2019-2020 Portfolio
 # Java-Portfolio
 This is one of the projects I made by my self and I learned about genetic algorithms and how to use them to make cool things like Rockets that learn how to avoid obstacles. 
+[Smart Rockets](https://github.com/AnthonyKuismi/Smart-Rockets/blob/main/README.md)
 
-
-
-
+This was and end of the year project that I worked on with a partner in Java to show are leanring. We made a gambling game similar to a roullette.
+[Gambling game](https://github.com/AnthonyKuismi/Java-end-of-year-Project)
 
 
 
